@@ -1,0 +1,16 @@
+{
+ "name": "學測必考單字",
+ "short_name": "學測必考",
+ "description": "大考中心 110-115 實際考出的 2570 字，按歷屆頻率分級，翻卡＋測驗＋間隔複習＋發音",
+ "lang": "zh-Hant",
+ "start_url": ".",
+ "scope": ".",
+ "display": "standalone",
+ "background_color": "#fdf6ec",
+ "theme_color": "#d97706",
+ "icons": [
+  {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+  {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+  {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+ ]
+}
